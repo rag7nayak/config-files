@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+loans:
+  message: "Welcome QA"
+  contactDetails:
+    name: "QA lead"
+    email: "raghu.tech7@gmail.com"
+  onCallSupport:
+    - 8825694156
+    - 6756992340

@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+cards:
+  message: "Welcome PROD"
+  contactDetails:
+    name: "Prod Lead name"
+    email: "raghu.tech7@gmail.com"
+  onCallSupport:
+    - 8825694156
+    - 6756992340
