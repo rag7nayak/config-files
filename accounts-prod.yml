@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Welcome Production"
+  message: "Welcome acounts Production to test bus"
   contactDetails:
     name: "Prod Lead name"
     email: "{cipher}15f4b33d57b1985f0b49e53a4c02af018afc2c884779f8159fd06507cd6b290ce649899b2130ab2cc0d2f28cf945197e"
