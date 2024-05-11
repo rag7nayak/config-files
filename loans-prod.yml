@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 loans:
-  message: "Welcome PROD to test Bus"
+  message: "Welcome PROD to test Bus again"
   contactDetails:
     name: "Prod Lead name"
     email: "raghu.tech7@gmail.com"
